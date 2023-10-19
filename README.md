@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# Crown E-commerce
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Crown E-commerce project! This is a simple e-commerce website where you can shop for various categories of products. Let's get started.
 
-## Available Scripts
+## Screenshots
 
-In the project directory, you can run:
+![image](https://github.com/Tribhuvan-Kumar/crown-ecommerce/assets/142161520/27b57c71-cc45-47d8-b93b-db0cea085792)
 
-### `npm start`
+![image](https://github.com/Tribhuvan-Kumar/crown-ecommerce/assets/142161520/4fce828d-0ad2-4698-877a-63c298029c8a)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://github.com/Tribhuvan-Kumar/crown-ecommerce/assets/142161520/efae30ed-80fa-4610-aaeb-8d8dd9e6460d)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Categories
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+We have five main product categories:
 
-### `npm run build`
+1. Men's
+2. Women
+3. Hats
+4. Jackets
+5. Sneakers
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Browsing by Categories
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+You can easily browse products within a specific category. Just click on the category name, and you'll be redirected to a page featuring products exclusively from that category.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Shop Everything
 
-### `npm run eject`
+If you prefer to shop without selecting a specific category, you can simply click on the "Shop" button in the navbar. This will display all available categories along with a selection of 4 products from each category.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Shopping Cart
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Once you find a product you like, click on the "Add to Cart" button on the product card. The selected item will be added to your shopping cart. You can access your shopping cart at any time by clicking on the cart icon located on the top right corner of the navbar.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Checkout
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To complete your purchase, click on the "Shop Cart" icon and then click "Go to Checkout." This will redirect you to the checkout page, where you can finalize your order.
 
-## Learn More
+- Modify the quantity of each product.
+- Remove items if you no longer want them.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
